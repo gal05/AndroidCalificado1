@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calificado1</string>
+
+    <string-array name="android_layout_arrays">
+        <item>uno</item>
+        <item>dos</item>
+        <item>tres</item>
+        <item>cuatro</item>
+        <item>cinco</item>
+        <item>seis</item>
+        <item>siete</item>
+    </string-array>
+
+</resources>
